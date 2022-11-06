@@ -30,9 +30,9 @@ Features (17 total) in the dataset include:
     etc…
 Target variables (2) used in the analysis:
 
-Regression: Total amount raised in ICO (USDm)
+    Regression: Total amount raised in ICO (USDm)
 
-Classification: Active/inactive (CoinMarketCap API volumes)
+    Classification: Active/inactive (CoinMarketCap API volumes)
 
 ## Author
 
