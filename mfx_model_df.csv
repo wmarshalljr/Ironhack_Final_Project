@@ -1,6 +1,0 @@
-,,dy/dx,std err,z,P>|z|,[0.025,0.975]
-1,"length_of_crowdsale_(calendar_days,_actual)",-0.5398,0.187,-2.892,0.004,-0.906,-0.174
-14,registration_country_Switzerland,-0.333,0.112,-2.978,0.003,-0.552,-0.114
-17,registration_country_other,-0.2409,0.105,-2.287,0.022,-0.447,-0.034
-54,vc_count_2,0.4713,0.198,2.38,0.017,0.083,0.859
-67,use_of_proceeds_mentioned,0.122,0.053,2.28,0.023,0.017,0.227
