@@ -1,6 +1,0 @@
-,Coef.,Std.Err.,t,P>|t|,[0.025,0.975]
-legal_structure_joint-stock corporation,-100.007,36.01,-2.777,0.01,-174.327,-25.686
-legal_structure_limited liability partnership,-98.414,36.044,-2.73,0.012,-172.805,-24.023
-legal_structure_other,-96.615,46.462,-2.079,0.048,-192.507,-0.722
-vc_count_2,-113.838,51.28,-2.22,0.036,-219.674,-8.002
-investors_have_governance_rights,-24.968,11.87,-2.103,0.046,-49.467,-0.469
