@@ -11,7 +11,7 @@ Question 1: Open-ended—what features of an ICO serve as signals that investors
 
     Part II (OLS regression): From the perspective of a crypto asset issuer, what are the most significant factors for predicting the total amount raised (USDm) in an ICO?
 
-    Part III (two-sample OLS regression): Asks the same question as part II but using two sub-samples (active or inactive status) to refine the prediction a bit
+    Part III (two-sample OLS regression): Asks the same question as part II but using two sub-samples (active or inactive status) to refine the prediction 
 
 
 Question 2: More specific and involves a hypothesis test of these two sub-samples to determine if their means are statistically significant: 
